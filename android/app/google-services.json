@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019679076759",
+    "project_id": "inventario-c7ebe",
+    "storage_bucket": "inventario-c7ebe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019679076759:android:702c727d26ba5b5b7354d2",
+        "android_client_info": {
+          "package_name": "com.example.inventario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019679076759-snj862mrhhi2kpdauuef19io6itrf454.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqMqtvUSAZA8pqAOfGNmCp0ai3b9YKVUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019679076759-snj862mrhhi2kpdauuef19io6itrf454.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
