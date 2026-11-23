@@ -157,4 +157,4 @@ Clientes necesarios = 300.000 / 56.900 ≈ 5,3  →  6 barberías
 
 ---
 
-*Autor: OSCAR MAURICIO CAPERA Y MICHAEL VILLANUEVA NEIRA · Proyecto: github.com/elcocoxxx/inventario*
+*Autor:OSCAR MAURICIO CAPERA, MICHAEL VILLANUEVA NEIRA Y JULIAN GONZÁLEZ  · Proyecto: github.com/elcocoxxx/inventario*
