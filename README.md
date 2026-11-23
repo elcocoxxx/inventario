@@ -133,7 +133,7 @@ Para que el inicio de sesión funcione en la versión en línea, agrega `elcocox
 
 ## 👤 Autor
 
-**OSCAR MAURICIO CAPERA Y MICHAEL VILLANUEVA NEIRA** · [@elcocoxxx](https://github.com/elcocoxxx)
+**OSCAR MAURICIO CAPERA, MICHAEL VILLANUEVA NEIRA Y JULIAN GONZÁLEZ** · [@elcocoxxx](https://github.com/elcocoxxx)
 
 ## 📄 Licencia
 
